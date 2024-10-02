@@ -1,0 +1,1 @@
+README - Wersja 1: Master
